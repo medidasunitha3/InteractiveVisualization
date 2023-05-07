@@ -2,19 +2,19 @@
   {
     "product": "Product A",
     "price": 10,
-    "quantity": 8,
+    "quantity": 10,
     "target": 12
   },
   {
     "product": "Product B",
     "price": 15,
-    "quantity": 6,
+    "quantity": 18,
     "target": 18
   },
   {
     "product": "Product C",
     "price": 20,
-    "quantity": 4,
+    "quantity": 18,
     "target": 24
   }
 ]
