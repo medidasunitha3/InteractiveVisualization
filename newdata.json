@@ -1,0 +1,5 @@
+[
+  { name: "Product A", range: [0, 50], mark: 30, type: "quantity" },
+  { name: "Product B", range: [0, 100], mark: 80, type: "price" },
+  { name: "Product C", range: [0, 200], mark: 150, type: "price" }
+]
