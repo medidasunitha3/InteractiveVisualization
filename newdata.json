@@ -1,5 +1,20 @@
 [
-  { name: "Product A", range: [0, 50], mark: 30, type: "quantity" },
-  { name: "Product B", range: [0, 100], mark: 80, type: "price" },
-  { name: "Product C", range: [0, 200], mark: 150, type: "price" }
+  {
+    "product": "Product A",
+    "price": 10,
+    "quantity": 8,
+    "target": 12
+  },
+  {
+    "product": "Product B",
+    "price": 15,
+    "quantity": 6,
+    "target": 18
+  },
+  {
+    "product": "Product C",
+    "price": 20,
+    "quantity": 4,
+    "target": 24
+  }
 ]
