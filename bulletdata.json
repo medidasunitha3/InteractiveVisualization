@@ -1,16 +1,16 @@
 [
   {
-    "title":"CPU Load",
-    "subtitle":"GHz",
-    "ranges":[1500,2250,3000],
-    "measures":[2200],
-    "markers":[2500]
+    "title": "Contoso SLR Camera M143 Grey",
+    "subtitle": "Sales Details in GBP",
+    "ranges": [12.99, 304.00, 699.00],
+    "measures": [2736.91],
+    "markers": [304.00]
   },
   {
-    "title":"Memory Used",
-    "subtitle":"MBytes",
-    "ranges":[256,512,1024],
-    "measures":[768],
+    "title":"Contoso DVD 9-Inch Player Portable M300 Silver",
+    "subtitle":"Sales in GBP",
+    "ranges":[12.99, 159.99, 699.00],
+    "measures":[1439.91],
     "markers":[900]
   }
 ]
