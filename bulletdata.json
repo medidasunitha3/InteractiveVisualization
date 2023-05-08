@@ -1,28 +1,28 @@
 [
   {
-    "title": "Contoso Camera-M143",
-    "subtitle": "Camera Sales in GBP",
+    "title": "Camera-M143",
+    "subtitle": "Contoso Camera Sales in GBP",
     "ranges": [12.99, 304.00, 699.00],
     "measures": [2736.91],
     "markers": [304.00]
   },
   {
-    "title":"Contoso DVD-900",
-    "subtitle":" DVD Sales in GBP",
+    "title":"DVD-900",
+    "subtitle":"Contos DVD Sales in GBP",
     "ranges":[12.99, 159.99, 699.00],
     "measures":[1439.91],
     "markers":[900]
   },
   {
-    "title": "NT Bluetooth E52",
-    "subtitle": "Bluetooth Sales in GBP",
+    "title": "Bluetooth E52",
+    "subtitle": "NT Bluetooth Sales in GBP",
     "ranges": [12.99, 25.69, 699.00],
     "measures": [462.42],
     "markers": [25.69]
   },
   {
-    "title": "AW Laptop15-M1501",
-    "subtitle": "Laptop Sales in GBP",
+    "title": "Laptop15-M1501",
+    "subtitle": "Adventure Works Laptop Sales in GBP",
     "ranges": [12.99, 699.00, 699.00],
     "measures": [6990.00],
     "markers": [699.00]
