@@ -1,13 +1,13 @@
 [
   {
     "title": "Contoso Camera-M143",
-    "subtitle": "Camera Sales Details in GBP",
+    "subtitle": "Camera Sales in GBP",
     "ranges": [12.99, 304.00, 699.00],
     "measures": [2736.91],
     "markers": [304.00]
   },
   {
-    "title":"Contoso DVD-Silver",
+    "title":"Contoso DVD-900",
     "subtitle":" DVD Sales in GBP",
     "ranges":[12.99, 159.99, 699.00],
     "measures":[1439.91],
