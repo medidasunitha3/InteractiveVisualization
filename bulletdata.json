@@ -12,5 +12,19 @@
     "ranges":[12.99, 159.99, 699.00],
     "measures":[1439.91],
     "markers":[900]
+  },
+  {
+    "title": "NT Bluetooth E52",
+    "subtitle": "Bluetooth Sales in GBP",
+    "ranges": [12.99, 25.69, 699.00],
+    "measures": [462.42],
+    "markers": [25.69]
+  },
+  {
+    "title": "AW Laptop15-M1501",
+    "subtitle": "Laptop Sales in GBP",
+    "ranges": [12.99, 699.00, 699.00],
+    "measures": [6990.00],
+    "markers": [699.00]
   }
 ]
